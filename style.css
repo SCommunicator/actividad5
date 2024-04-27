@@ -1,0 +1,56 @@
+.dia {
+    font-weight: bold;
+    color: #dc143c; 
+    font-size: 20px;
+}
+
+.horario {
+    font-style: italic;
+    font-size: 10px;
+}
+
+.titulo {
+    font-style: oblique;
+    color: blue;
+}
+
+.fal {
+    font-size: 75px;
+    text-align: center;
+}
+
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    width: 100%;
+}
+
+.pie {
+    background-color: #333; 
+    height: 150px; 
+    width: 100%; 
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    line-height: 150px;
+}
+
+.imagen {
+    text-align: center; 
+}
+
+.imagen img {
+    display: block; 
+    margin: 0 auto;
+}
+
+.navegacion {
+    text-align: center;
+}
+
+.subtitulo {
+    text-align: center;
+}
